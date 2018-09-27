@@ -1,34 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:showIn="navigation_view">
-
-    <group android:checkableBehavior="single">
-        <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="Activity A" />
-        <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="Activity B" />
-        <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="Activity C"
-            />
-        <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Activity D" />
-        <item
-            android:id="@+id/nav_Calendar"
-            android:icon="@drawable/ic_menu_send"
-            android:title="Activity E" />
-        <item
-            android:id="@+id/nav_F"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Activity F" />
-    </group>
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
 </menu>

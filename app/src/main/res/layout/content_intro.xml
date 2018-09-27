@@ -16,7 +16,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="97dp"
-        app:srcCompat="@drawable/i" />
+        app:srcCompat="@drawable/cau" />
 
     <TextView
         android:id="@+id/textView2"
@@ -28,7 +28,7 @@
         android:layout_marginStart="88dp"
         android:layout_marginLeft="88dp"
         android:layout_marginBottom="39dp"
-        android:text="PROJECT01"
+        android:text="PROJECT01  20124602    이승준"
         android:textSize="30sp"
         android:textStyle="bold" />
 </RelativeLayout>
